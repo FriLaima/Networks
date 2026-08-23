@@ -45,7 +45,28 @@ The `show ip interface brief` command displays the IPv4 addresses and current st
 
 The `show ip interface brief` command displays the status of the switch management interface - `Vlan 1` is active.
 
-## 🧪 Testing
-<img width="453" height="198" alt="image" src="https://github.com/user-attachments/assets/2ddaf952-88aa-4fb4-8637-4517a39aa731" />
-<img width="555" height="100" alt="image" src="https://github.com/user-attachments/assets/61e7334f-0e30-4b79-9994-d42b386d2aac" />
+## 🧪Testing
+The tests were performed using the `ping` command from PC-A to PC-B and from switch S1 to PC-B.<br>
 
+<h3><b>PC-A → PC-B<br></b></h3>
+
+<img width="453" height="198" alt="image" src="https://github.com/user-attachments/assets/2ddaf952-88aa-4fb4-8637-4517a39aa731" /><br>
+
+<h3><b>S1 → PC-B<br></b></h3>
+
+<img width="555" height="100" alt="image" src="https://github.com/user-attachments/assets/61e7334f-0e30-4b79-9994-d42b386d2aac" /> <br>
+
+All ping packets were successfully sent.
+
+## 🛠️Testing
+The initial ping from PC-A to PC-B was unsuccessful because the router interfaces had not yet been configured, so Layer 3 traffic could not be routed between the subnets.
+
+## 📚What I Learned
+<b>During this lab I practiced:</b><br>
+➜ Configuring router interfaces and a switch management interface<br>
+➜ Configuring IPv4 and IPv6 addresses<br>
+➜ Enabling IPv6 routing<br>
+➜ Checking routing tables<br>
+➜ Checking interface status<br>
+➜ Testing end-to-end connectivity with ping<br>
+➜ Troubleshooting basic network connectivity problems<br>
