@@ -58,7 +58,7 @@ The tests were performed using the `ping` command from PC-A to PC-B and from swi
 
 All ping packets were successfully sent.
 
-## 🛠️Testing
+## 🛠️Troubleshooting 
 The initial ping from PC-A to PC-B was unsuccessful because the router interfaces had not yet been configured, so Layer 3 traffic could not be routed between the subnets.
 
 ## 📚What I Learned
