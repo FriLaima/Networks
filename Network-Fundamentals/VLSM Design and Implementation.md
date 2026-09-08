@@ -31,8 +31,6 @@ Connectivity between the routers was tested using the `ping` command.
 <img width="579" height="97" alt="image" src="https://github.com/user-attachments/assets/d2b3ab02-a4b6-4530-9f50-e8010f3282f1" />
 
 <br>Successful pings confirmed connectivity between the two routers.
-## 🛠️Troubleshooting 
-
 
 ## 📚What I Learned
 <b>During this lab I practiced:</b><br>
