@@ -35,6 +35,6 @@ Connectivity between the routers was tested using the `ping` command.
 
 
 ## 📚What I Learned
-How to design a VLSM addressing scheme <br>
-How to calculate subnet sizes based on host requirements <br>
-How to divide an IPv4 network into subnets of different sizes 
+➜ How to design a VLSM addressing scheme <br>
+➜ How to calculate subnet sizes based on host requirements <br>
+➜ How to divide an IPv4 network into subnets of different sizes 
