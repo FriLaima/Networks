@@ -2,15 +2,14 @@
 ## 📄Description
 
 ## 📌Objectives
-✔ Configure IPv4 and IPv6 addressing <br>
-✔ Configure basic router and switch settings <br> 
-✔ Configure passwords and device access <br>
-✔ Verify end-to-end connectivity <br>
+✔ Set Up Topology and Configure Basic Router and Switch Settings <br>
+✔ Configure IPv6 Addresses Manually <br> 
+✔ Verify End-to-End Connectivity <br>
 ## 🌐Network Topology
-
+<img src="images/Topology.jpg" width="700">
 
 ## 📋Addressing Table
-
+<img src="images/Add table.jpg" width="700">
 
 ## 🖥️PC Configuration
 <h3><b>PC-A<br></b></h3>
